@@ -16,9 +16,6 @@ Categories:
 - plugin
 Provides:
 - ioncube_loader
-Scaling:
-  Min: 1
-  Max: -1
 Configure-Order:
 - php
 - ioncube_loader
