@@ -7,7 +7,7 @@ Release:       1%{?dist}
 Group:         Applications/Internet
 License:       ASL 2.0
 URL:           https://www.ausnimbus.com.au
-Source0:       https://github.com/andrewklau/openshift-origin-ioncube-cartridge/archive/master.zip
+Source0:       https://github.com/mojab/openshift-origin-ioncube-cartridge/archive/master.zip
 Requires:      rubygem(openshift-origin-node)
 Requires:      openshift-origin-node-util
 Provides:      openshift-origin-cartridge-ioncube = 2.0.0
