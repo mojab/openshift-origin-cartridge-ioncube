@@ -3,7 +3,7 @@ Name: ioncube_loader
 Cartridge-Short-Name: IONCUBE
 Display-Name: ionCube Loader for PHP
 Description: Load the necessary ionCube modules to run ionCube compiled applications
-Source-Url: https://github.com/andrewklau/openshift-origin-cartridge-ioncube/archive/master.zip
+Source-Url: https://github.com/mojab/openshift-origin-cartridge-ioncube/archive/master.zip
 Version: '1'
 License: GPLv2
 Vendor: ionCube
